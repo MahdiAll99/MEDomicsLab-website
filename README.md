@@ -1,0 +1,3 @@
+# [MEDomicsLab website](https://medomicslab.com/)
+
+Hosted at [medomicslab.com](https://medomicslab.com/), the MEDomicsLab website is the main hub for all information about the project. It includes a detailed description of the project, a list of all modules, and a blog with updates on the project's development. The website also provides links to the project's documentation, YouTube channel, and GitHub repository.

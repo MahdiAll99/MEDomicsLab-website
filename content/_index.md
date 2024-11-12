@@ -76,7 +76,7 @@ sections:
         <style>
         .highlights {
           text-align: center;
-          width: 2000px;
+          width: 1800px;
         }
 
         .highlights-content {
@@ -130,7 +130,7 @@ sections:
           </div>
           <!-- Center Image -->
           <div class="highlights-image">
-            <img src="https://static.wixstatic.com/media/f49584_f063e24bc948492ca83365132351ff66~mv2.png/v1/fill/w_366,h_627,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ContributingToolsVerticalWShadow.png" alt="Tech Stack Icons">
+            <img src="https://github.com/MahdiAll99/MEDomicsLab-website/blob/main/assets/media/ContributingTools.png?raw=true" alt="Tech Stack Icons">
           </div>
           <!-- Right Column -->
           <div class="highlights-column-left">
@@ -160,9 +160,9 @@ sections:
           feature_icon: check
           features:
             - "Comprehensive tutorials to help you get started"
-            - "Guidance on tailoring the application to your specific needs"
-            - "In-depth videos covering the full testing phase of all modules"
             - "Individual module tutorials for focused, step-by-step learning"
+            - "In-depth videos covering the full [**testing phase**](https://medomics-udes.gitbook.io/medomicslab-docs/medomicslab-docs-v0/test-with-mimic) of all modules"
+            - "Guidance on tailoring the application to your specific needs"
           # Upload image to `assets/media/` and reference the filename here
           image: Youtube.png
           button:
@@ -216,7 +216,7 @@ sections:
       title: Supported by
       text: |
         <div style="text-align: center; width: 200px; ">
-          <div style="display: flex; justify-content: center; gap: 50px; align-items: center;">
+          <div style="display: flex; justify-content: center; gap: 250px; align-items: center;">
             <img src="https://resiproc.org/wp-content/uploads/2022/03/csm_udes_logo_rgb_c_1471ccc107.png" alt="Université de Sherbrooke" style="width: 500px;">
             <img src="https://repository-images.githubusercontent.com/257617359/0329b200-8555-11ea-9fe3-034058d6d354" alt="MEDomics" style="width: 300px;">
             <img src="https://ssaquebec.ca/wp-content/uploads/2022/04/Logo_Unite_SLOGAN_RGB_2021.png" alt="SSA Québec" style="width: 1300px;">
@@ -230,7 +230,8 @@ sections:
       text: |
         <div style="text-align: center; ">
           <h6 style="font-size: 1.0em;">MEDomicsLab relies on these essential tools</h6>
-          <img src="https://static.wixstatic.com/media/f49584_6afd83e505e649b188ea0aea7bdc1d90~mv2.png/v1/fill/w_904,h_277,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PackagesUsed.png"  alt="MEDomicsLab essential packages">
+          <br><br>
+          <img src="https://raw.githubusercontent.com/MahdiAll99/MEDomicsLab-website/refs/heads/main/assets/media/ToolsUsed.png"  alt="MEDomicsLab essential packages" style="max-width: none; width: 1200px">
         </div>
 
 ---

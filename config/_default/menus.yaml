@@ -11,10 +11,10 @@ main:
     weight: 20
   - name: Dashboard
     url: /#dashboard
-    weight: 20
+    weight: 30
   - name: Highlights
     url: /#highlights
-    weight: 30
+    weight: 40
   - name: Resources
     url: /#Resources
-    weight: 40
+    weight: 50

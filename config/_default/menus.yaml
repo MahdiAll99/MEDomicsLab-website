@@ -12,9 +12,12 @@ main:
   - name: Dashboard
     url: /#dashboard
     weight: 30
+  - name: Download
+    url: /#download
+    weight: 40
   - name: Highlights
     url: /#highlights
-    weight: 40
+    weight: 50
   - name: Resources
     url: /#Resources
-    weight: 50
+    weight: 60

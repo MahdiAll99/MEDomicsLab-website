@@ -14,7 +14,7 @@ sections:
       text:  Integrative Modeling of Heterogeneous Data in Medicine
       primary_action:
         text: Get Started
-        url: https://medomics-udes.gitbook.io/MEDomicsLab-docs/quick-start
+        url: /#download
         icon: rocket-launch
       secondary_action:
         text: Explore tutorials
@@ -43,10 +43,10 @@ sections:
   - block: hero
     design:
       spacing:
-        padding: [100, 0, 0, 0]
+        padding: [10, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "dark"
+      css_class: "min-h-screen"
       background:
         video:
           # Add your image background to `assets/media/`.
@@ -150,6 +150,38 @@ sections:
         </div>
         </section>
   
+
+  - block: markdown
+    id: download
+    content:
+      text: |
+        <div style="text-align: center; margin: 1rem 0;">
+          <h2 style="font-size: 2rem; font-weight: bold; margin-bottom: 0.5rem;">Available on Windows, Linux, and Mac</h2>
+          <p style="font-size: 1.25rem; color: #555;">Download the MEDomicsLab application on your favorite operating system and start exploring!</p>
+        </div>
+        <div class="download-section" style="display: flex; justify-content: space-between; gap: 2rem; margin: 0rem 0;">
+          <!-- Windows Card -->
+          <div style="flex: 1; text-align: center; border: 1px solid #e0e0e0; border-radius: 10px; padding: 1.5rem;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows Logo" style="width: 134px; margin-bottom: 1rem;">
+            <h3>Windows</h3>
+            <a href="https://github.com/MEDomics-UdeS/MEDomicsLab/releases/download/untagged-81ce70e69ab878f80e29/MEDomicsLab-0.9.0-win.exe" style="display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">Download</a>
+          </div>
+
+          <!-- Linux Card -->
+          <div style="flex: 1; text-align: center; border: 1px solid #e0e0e0; border-radius: 10px; padding: 1.5rem;">
+            <img src="https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/linux-512.png" alt="Linux Logo" style="width: 200px; margin-bottom: 1rem;">
+            <h3>Linux</h3>
+            <a href="https://github.com/MEDomics-UdeS/MEDomicsLab/releases/download/untagged-81ce70e69ab878f80e29/MEDomicsLab-0.9.0-ubuntu.deb" style="display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">Download</a>
+          </div>
+
+          <!-- Mac Card -->
+          <div style="flex: 1; text-align: center; border: 1px solid #e0e0e0; border-radius: 10px; padding: 1.5rem;">
+            <img src="https://seeklogo.com/images/A/apple-mac-os-logo-02F86B913E-seeklogo.com.png" alt="Mac Logo" style="width: 200px; margin-bottom: 1rem;">
+            <h3>Mac</h3>
+            <a href="https://github.com/MEDomics-UdeS/MEDomicsLab/releases/download/untagged-81ce70e69ab878f80e29/MEDomicsLab-0.9.0-mac.pkg" style="display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">Download</a>
+          </div>
+        </div>
+
   - block: cta-image-paragraph
     id: resources
     content:

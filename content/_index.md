@@ -14,7 +14,7 @@ sections:
       text:  Integrative Modeling of Heterogeneous Data in Medicine
       primary_action:
         text: Get Started
-        url: /#download
+        url: https://medomics-udes.gitbook.io/medomicslab-docs/
         icon: rocket-launch
       secondary_action:
         text: Explore tutorials
@@ -23,7 +23,7 @@ sections:
         text: The first release is 
         link:
           text: here!
-          url: https://github.com/MEDomics-UdeS/MEDomicsLab/releases
+          url: /#download
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -36,21 +36,16 @@ sections:
           filename: medical-ai.png
           filters:
             brightness: 0.4
-
-  - block: markdown
-    id: overview
     
-  - block: hero
-    design:
-      spacing:
-        padding: [10, 0, 0, 0]
-        margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-      css_class: "min-h-screen"
-      background:
-        video:
-          # Add your image background to `assets/media/`.
-          filename: Promotional_Video.mp4
+  - block: markdown
+    id: youtube
+    id: video
+    content:
+      title: Discover MEDomicsLab
+      text: |
+        <div style="text-align: center;">
+          <iframe width="1260" height="708" src="https://www.youtube.com/embed/1F7Yg78FXVE?si=dtBDuJ8lVzvwhWvF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
 
   - block: features
     id: dashboard

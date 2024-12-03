@@ -44,7 +44,7 @@ sections:
       title: Discover MEDomicsLab
       text: |
         <div style="text-align: center;">
-          <iframe width="1260" height="708" src="https://www.youtube.com/embed/1F7Yg78FXVE?si=dtBDuJ8lVzvwhWvF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="1280" height="720" src="https://www.youtube.com/embed/5eVyInq9N2I?si=entKWvlfjcn0AZHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
 
   - block: features

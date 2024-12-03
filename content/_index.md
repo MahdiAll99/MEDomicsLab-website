@@ -177,7 +177,7 @@ sections:
               <option value="https://github.com/MEDomics-UdeS/MEDomicsLab/releases/download/untagged-75941dbf2fd0c1c06239/MEDomicsLab-0.9.2-ubuntu.deb">Version 1.0</option>
               <option value="https://github.com/MEDomics-UdeS/MEDomicsLab/releases/download/v0.0.5-prealpha/MEDomicsLab-0.0.5-prealpha-ubuntu.deb">Version 0.0.5-prealpha</option>
             </select>
-            <a id="linux-download" href="https://github.com/MEDomics-UdeS/MEDomicsLab/releases/download/untagged-81ce70e69ab878f80e29/MEDomicsLab-0.9.0-ubuntu.deb" 
+            <a id="linux-download" href="https://github.com/MEDomics-UdeS/MEDomicsLab/releases/download/untagged-75941dbf2fd0c1c06239/MEDomicsLab-0.9.2-ubuntu.deb" 
               style="display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">
               Download
             </a>

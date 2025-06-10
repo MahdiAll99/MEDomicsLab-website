@@ -6,8 +6,33 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
+fr:  # New language (French example)
+  languageCode: fr-FR
+  contentDir: content/fr
+  weight: 4
+  title: "MEDomicsLab | Modélisation intégrative de données hétérogènes en médecine"
+  menu:
+    main:
+      - name: Accueil
+        url: /#top
+        weight: 10
+      - name: Aperçu
+        url: /#overview
+        weight: 20
+      - name: Tableau de bord
+        url: /#dashboard
+        weight: 30
+      - name: Télécharger
+        url: /#download
+        weight: 40
+      - name: Points forts
+        url: /#highlights
+        weight: 50
+      - name: Ressources
+        url: /#resources
+        weight: 60
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans

@@ -23,7 +23,7 @@ sections:
         text: La première version est
         link:
           text: là!
-          url: /#download
+          url: /fr/#download
     design:
       spacing:
         padding: [0, 0, 0, 0]

@@ -12,7 +12,7 @@ fr:  # New language (French example)
   languageCode: fr-FR
   contentDir: content/fr
   weight: 4
-  title: "MEDomicsLab | Modélisation intégrative de données hétérogènes en médecine"
+  title: "MEDomics | Modélisation intégrative de données hétérogènes en médecine"
   menu:
     main:
       - name: Accueil

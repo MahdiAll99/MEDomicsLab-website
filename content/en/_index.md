@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: MEDomicsLab
+      title: MEDomics platform
       text:  Integrative Modeling of Heterogeneous Data in Medicine
       primary_action:
         text: Get Started
@@ -41,7 +41,7 @@ sections:
     id: youtube
     id: overview
     content:
-      title: Discover MEDomicsLab
+      title: Discover the MEDomics platform
       text: |
         <div style="text-align: center;">
           <iframe width="1280" height="720" src="https://www.youtube.com/embed/5eVyInq9N2I?si=entKWvlfjcn0AZHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -55,14 +55,14 @@ sections:
       items:
         - name: Easy management
           icon: sparkles
-          description: MEDomicsLab simplifies the management of diverse datasets and assets, offering an organized, unified view of medical data. With its user-friendly interface, researchers can easily handle complex data without technical hurdles, making analysis more straightforward. 
+          description: MEDomics platform simplifies the management of diverse datasets and assets, offering an organized, unified view of medical data. With its user-friendly interface, researchers can easily handle complex data without technical hurdles, making analysis more straightforward. 
         - name: Save your time
           icon: clock
-          description: Equipped with all essential tools, MEDomicsLab saves users time by enabling experiment setup without any coding. Built-in pipelines and customizable workflows allow users to swiftly go from data to insights, boosting efficiency and focus on research.
+          description: Equipped with all essential tools, MEDomics platform saves users time by enabling experiment setup without any coding. Built-in pipelines and customizable workflows allow users to swiftly go from data to insights, boosting efficiency and focus on research.
         - name: Promote synergy
           icon: users
-          description: Designed for collaboration, MEDomicsLab bridges the gap between clinicians and computer scientists. Clinicians can design experiments, while computer scientists can refine and adapt them, fostering teamwork for developing impactful predictive models.
-  
+          description: Designed for collaboration, MEDomics platform bridges the gap between clinicians and computer scientists. Clinicians can design experiments, while computer scientists can refine and adapt them, fostering teamwork for developing impactful predictive models.
+
   - block: markdown
     id: highlights
     content:
@@ -105,7 +105,7 @@ sections:
         }
         </style>
         <section class="highlights">
-        <h1>The central features of MEDomicsLab</h1>
+        <h1>The central features of the MEDomics platform</h1>
          <div class="highlights-content">
           <!-- Left Column -->
           <div class="highlights-column-right">
@@ -152,7 +152,7 @@ sections:
       text: |
         <div style="text-align: center; margin: 1rem 0;">
           <h2 style="font-size: 2rem; font-weight: bold; margin-bottom: 0.5rem;">Available on Windows, Linux, and Mac</h2>
-          <p style="font-size: 1.25rem; color: #555;">Download the MEDomicsLab application on your favorite operating system and start exploring!</p>
+          <p style="font-size: 1.25rem; color: #555;">Download the MEDomics platform on your favorite operating system and start exploring!</p>
         </div>
         <div class="download-section" style="display: flex; justify-content: space-between; gap: 2rem; margin: 0rem 0;">
           <!-- Windows Card -->
@@ -261,7 +261,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           feature_icon: check
           features:
-            - "Access to the full source code of MEDomicsLab"
+            - "Access to the full source code of the MEDomics platform"
             - "Opportunities to contribute to the project"
             - "Regular updates and new feature releases"
             - "Issues submission and collaboration on improvements"
@@ -300,9 +300,9 @@ sections:
       title: Acknowledgement
       text: |
         <div style="text-align: center; ">
-          <h6 style="font-size: 1.0em;">MEDomicsLab relies on these essential tools</h6>
+          <h6 style="font-size: 1.0em;">MEDomics platform relies on these essential tools</h6>
           <br><br>
-          <img src="https://raw.githubusercontent.com/MahdiAll99/MEDomicsLab-website/refs/heads/main/assets/media/ToolsUsed.png"  alt="MEDomicsLab essential packages" style="max-width: none; width: 1200px">
+          <img src="https://raw.githubusercontent.com/MahdiAll99/MEDomicsLab-website/refs/heads/main/assets/media/ToolsUsed.png"  alt="MEDomics platform essential packages" style="max-width: none; width: 1200px">
         </div>
 
 ---

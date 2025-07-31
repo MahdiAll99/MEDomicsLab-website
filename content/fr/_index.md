@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: MEDomicsLab
+      title: La plateforme MEDomics
       text:  Modélisation intégrative de données hétérogènes en médecine
       primary_action:
         text: Commencer
@@ -41,7 +41,7 @@ sections:
     id: youtube
     id: overview
     content:
-      title: Découvrez MEDomicsLab
+      title: Découvrez la plateforme MEDomics
       text: |
         <div style="text-align: center;">
           <iframe width="1280" height="720" src="https://www.youtube.com/embed/scXKe9-ZjEo?si=6q_fiQSvrh6DD2aT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -55,14 +55,14 @@ sections:
       items:
         - name: Gestion facile
           icon: sparkles
-          description: MEDomicsLab simplifie la gestion de divers ensembles de données et ressources, offrant une vue organisée et unifiée des données médicales. Grâce à son interface intuitive, les chercheurs peuvent facilement traiter des données complexes sans obstacles techniques, simplifiant ainsi l'analyse. 
+          description: La plateforme MEDomics simplifie la gestion de divers ensembles de données et ressources, offrant une vue organisée et unifiée des données médicales. Grâce à son interface intuitive, les chercheurs peuvent facilement traiter des données complexes sans obstacles techniques, simplifiant ainsi l'analyse. 
         - name: Gagnez du temps
           icon: clock
-          description: Doté de tous les outils essentiels, MEDomicsLab permet aux utilisateurs de gagner du temps en permettant la configuration d'expériences sans aucun codage. Des pipelines intégrés et des workflows personnalisables permettent aux utilisateurs de passer rapidement des données aux informations, améliorant ainsi leur efficacité et leur permettant de se concentrer sur la recherche.
+          description: Dotée de tous les outils essentiels, la plateforme MEDomics permet aux utilisateurs de gagner du temps en permettant la configuration d'expériences sans aucun codage. Des pipelines intégrés et des workflows personnalisables permettent aux utilisateurs de passer rapidement des données aux informations, améliorant ainsi leur efficacité et leur permettant de se concentrer sur la recherche.
         - name: Favoriser la synergie
           icon: users
-          description: Conçu pour la collaboration, MEDomicsLab comble le fossé entre cliniciens et informaticiens. Les cliniciens peuvent concevoir des expériences, tandis que les informaticiens les peaufinent et les adaptent, favorisant ainsi le travail d'équipe pour le développement de modèles prédictifs performants.
-  
+          description: Conçu pour la collaboration, la plateforme MEDomics comble le fossé entre cliniciens et informaticiens. Les cliniciens peuvent concevoir des expériences, tandis que les informaticiens les peaufinent et les adaptent, favorisant ainsi le travail d'équipe pour le développement de modèles prédictifs performants.
+
   - block: markdown
     id: highlights
     content:
@@ -105,7 +105,7 @@ sections:
         }
         </style>
         <section class="highlights">
-        <h1>Les principales fonctionnalités de MEDomicsLab</h1>
+        <h1>Les principales fonctionnalités de la plateforme MEDomics</h1>
          <div class="highlights-content">
           <!-- Left Column -->
           <div class="highlights-column-right">
@@ -152,7 +152,7 @@ sections:
       text: |
         <div style="text-align: center; margin: 1rem 0;">
           <h2 style="font-size: 2rem; font-weight: bold; margin-bottom: 0.5rem;">Disponible sur Windows, Linux et Mac</h2>
-          <p style="font-size: 1.25rem; color: #555;">Téléchargez l'application MEDomicsLab sur votre système d'exploitation préféré et commencez à explorer !</p>
+          <p style="font-size: 1.25rem; color: #555;">Téléchargez la plateforme MEDomics sur votre système d'exploitation préféré et commencez à explorer !</p>
         </div>
         <div class="download-section" style="display: flex; justify-content: space-between; gap: 2rem; margin: 0rem 0;">
           <!-- Windows Card -->
@@ -261,7 +261,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           feature_icon: check
           features:
-            - "Accès au code source complet de MEDomicsLab"
+            - "Accès au code source complet de la plateforme MEDomics"
             - "Opportunités de contribuer au projet"
             - "Mises à jour régulières et nouvelles fonctionnalités"
             - "Soumission des problèmes et collaboration aux améliorations"
@@ -300,9 +300,9 @@ sections:
       title: Reconnaissance
       text: |
         <div style="text-align: center; ">
-          <h6 style="font-size: 1.0em;">MEDomicsLab s'appuie sur ces outils essentiels</h6>
+          <h6 style="font-size: 1.0em;">La plateforme MEDomics s'appuie sur ces outils essentiels</h6>
           <br><br>
-          <img src="https://raw.githubusercontent.com/MahdiAll99/MEDomicsLab-website/refs/heads/main/assets/media/ToolsUsed.png"  alt="MEDomicsLab outils essentiels" style="max-width: none; width: 1200px">
+          <img src="https://raw.githubusercontent.com/MahdiAll99/MEDomicsLab-website/refs/heads/main/assets/media/ToolsUsed.png"  alt="Outils essentiels pour la plateforme MEDomics" style="max-width: none; width: 1200px">
         </div>
 
 ---

@@ -41,7 +41,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} MEDomicsLab'
+    notice: '© {year} MEDomics'
 
 # Localization
 locale:

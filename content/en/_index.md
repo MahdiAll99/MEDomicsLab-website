@@ -8,6 +8,12 @@ design:
   spacing: "rem"
 
 sections:
+  - block: announcement
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: [0, 0, 0, 0]
+      
   - block: hero
     content:
       title: MEDomics platform

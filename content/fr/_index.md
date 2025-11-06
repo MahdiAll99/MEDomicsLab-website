@@ -167,7 +167,7 @@ sections:
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.0.0/MEDomicsLab-1.0.0-win.exe">Version 1.0</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v0.0.5-prealpha/MEDomicsLab-0.0.5-prealpha-win.exe">Version 0.0.5-prealpha</option>
             </select>
-            <a id="windows-download" href="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.0.0/MEDomicsLab-1.0.0-win.exe" 
+            <a id="windows-download" href="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.5.0/MEDomicsLab-1.5.0-win.exe" 
               style="display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">
               Télécharger
             </a>
@@ -185,7 +185,7 @@ sections:
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.0.0/MEDomicsLab-1.0.0-ubuntu.deb">Version 1.0</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v0.0.5-prealpha/MEDomicsLab-0.0.5-prealpha-ubuntu.deb">Version 0.0.5-prealpha</option>
             </select>
-            <a id="linux-download" href="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.0.0/MEDomicsLab-1.0.0-ubuntu.deb" 
+            <a id="linux-download" href="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.5.0/MEDomicsLab-1.5.0-linux.deb" 
               style="display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">
               Télécharger
             </a>
@@ -203,7 +203,7 @@ sections:
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.0.0/MEDomicsLab-1.0.0-mac.pkg">Version 1.0</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v0.0.5-prealpha/MEDomicsLab-0.0.5-prealpha-mac.dmg">Version 0.0.5-prealpha</option>
             </select>
-            <a id="mac-download" href="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.0.0/MEDomicsLab-1.0.0-mac.pkg" 
+            <a id="mac-download" href="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.5.0/MEDomicsLab-1.5.0-mac.pkg" 
               style="display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">
               Télécharger
             </a>

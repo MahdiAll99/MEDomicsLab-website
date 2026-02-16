@@ -159,6 +159,7 @@ sections:
         <div style="text-align: center; margin: 1rem 0;">
           <h2 style="font-size: 2rem; font-weight: bold; margin-bottom: 0.5rem;">Available on Windows, Linux, and Mac</h2>
           <p style="font-size: 1.25rem; color: #555;">Download the MEDomics platform on your favorite operating system and start exploring!</p>
+          <label style="color: #bd0606; font-size: 0.9rem;">Note that the macOS installation process has two steps: first, run the .pkg file, then the .dmg file.</label>
         </div>
         <div class="download-section" style="display: flex; justify-content: space-between; gap: 2rem; margin: 0rem 0;">
           <!-- Windows Card -->
@@ -166,7 +167,6 @@ sections:
             <img src="https://img.icons8.com/?size=512&id=TuXN3JNUBGOT&format=png" alt="Windows Logo" style="width: 200px; height:200px; margin-bottom: 1rem;">
             <h3>Windows</h3>
             <select id="windows-version" style="margin: 0.5rem 0; padding: 0.5rem; border: 1px solid #ccc; border-radius: 5px;">
-              <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.1/MEDomics-1.7.1-win.exe">Version 1.7.1</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.0/MEDomics-1.7.0-win.exe">Version 1.7.0</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.6.0/MEDomics-1.6.0-win.exe">Version 1.6.0</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.5.0/MEDomicsLab-1.5.0-win.exe">Version 1.5.0</option>
@@ -176,7 +176,7 @@ sections:
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.0.0/MEDomicsLab-1.0.0-win.exe">Version 1.0</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v0.0.5-prealpha/MEDomicsLab-0.0.5-prealpha-win.exe">Version 0.0.5-prealpha</option>
             </select>
-            <a id="windows-download" href="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.1/MEDomics-1.7.1-win.exe" 
+            <a id="windows-download" href="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.0/MEDomics-1.7.0-win.exe" 
               style="display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">
               Download
             </a>
@@ -187,7 +187,6 @@ sections:
             <img src="https://cdn1.iconfinder.com/data/icons/operating-system-flat-1/30/linux-512.png" alt="Linux Logo" style="width: 200px; height:200px; margin-bottom: 1rem;">
             <h3>Linux</h3>
             <select id="linux-version" style="margin: 0.5rem 0; padding: 0.5rem; border: 1px solid #ccc; border-radius: 5px;">
-              <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.1/MEDomics-1.7.1-ubuntu.deb">Version 1.7.1</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.0/MEDomics-1.7.0-ubuntu.deb">Version 1.7.0</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.6.0/MEDomics-1.6.0-ubuntu.deb">Version 1.6.0</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.5.0/MEDomicsLab-1.5.0-linux.deb">Version 1.5.0</option>
@@ -197,7 +196,7 @@ sections:
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.0.0/MEDomicsLab-1.0.0-ubuntu.deb">Version 1.0</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v0.0.5-prealpha/MEDomicsLab-0.0.5-prealpha-ubuntu.deb">Version 0.0.5-prealpha</option>
             </select>
-            <a id="linux-download" href="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.1/MEDomics-1.7.1-ubuntu.deb" 
+            <a id="linux-download" href="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.0/MEDomics-1.7.0-ubuntu.deb" 
               style="display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">
               Download
             </a>
@@ -206,9 +205,9 @@ sections:
           <!-- Mac Card -->
           <div style="flex: 1; text-align: center; border: 1px solid #e0e0e0; border-radius: 10px; padding: 1.5rem;">
             <img src="https://img.icons8.com/?size=512&id=122959&format=png" alt="Mac Logo" style="width: 200px; height:200px; margin-bottom: 1rem;">
-            <h3>Mac</h3>
+            <h3>Mac (PKG)</h3>
+              <label style="color: #666; font-size: 0.9rem;">Must be installed first before the DMG file</label>
             <select id="mac-version" style="margin: 0.5rem 0; padding: 0.5rem; border: 1px solid #ccc; border-radius: 5px;">
-              <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.1/MEDomics-1.7.1-mac.pkg">Version 1.7.1</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.0/MEDomics-1.7.0-mac.pkg">Version 1.7.0</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.6.0/MEDomics-1.6.0-mac.pkg">Version 1.6.0</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.5.0/MEDomicsLab-1.5.0-mac.pkg">Version 1.5.0</option>
@@ -218,7 +217,26 @@ sections:
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.0.0/MEDomicsLab-1.0.0-mac.pkg">Version 1.0</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v0.0.5-prealpha/MEDomicsLab-0.0.5-prealpha-mac.dmg">Version 0.0.5-prealpha</option>
             </select>
-            <a id="mac-download" href="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.1/MEDomics-1.7.1-mac.pkg"
+            <a id="mac-download" href="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.0/MEDomics-1.7.0-mac.pkg"
+              style="display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">
+              Download
+            </a>
+          </div>
+          <div style="flex: 1; text-align: center; border: 1px solid #e0e0e0; border-radius: 10px; padding: 1.5rem;">
+            <img src="https://img.icons8.com/?size=512&id=122959&format=png" alt="Mac Logo" style="width: 200px; height:200px; margin-bottom: 1rem;">
+            <h3>Mac (DMG)</h3>
+            <label style="color: #666; font-size: 0.9rem;">Must be installed after the PKG file</label>
+            <select id="mac-version" style="margin: 0.5rem 0; padding: 0.5rem; border: 1px solid #ccc; border-radius: 5px;">
+              <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.0/MEDomics-1.7.0-mac.dmg">Version 1.7.0</option>
+              <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.6.0/MEDomics-1.6.0-mac.pkg">Version 1.6.0</option>
+              <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.5.0/MEDomicsLab-1.5.0-mac.pkg">Version 1.5.0</option>
+              <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.4.0/MEDomicsLab-1.4.0-mac.pkg">Version 1.4.0</option>
+              <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.3.0/MEDomicsLab-1.3.0-mac.pkg">Version 1.3.0</option>
+              <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.2.0/MEDomicsLab-1.2.0-mac.pkg">Version 1.2.0</option>
+              <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.0.0/MEDomicsLab-1.0.0-mac.pkg">Version 1.0</option>
+              <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v0.0.5-prealpha/MEDomicsLab-0.0.5-prealpha-mac.dmg">Version 0.0.5-prealpha</option>
+            </select>
+            <a id="mac-download" href="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.0/MEDomics-1.7.0-mac.dmg" 
               style="display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">
               Download
             </a>

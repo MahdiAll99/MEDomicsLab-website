@@ -167,7 +167,6 @@ sections:
             <img src="https://img.icons8.com/?size=512&id=TuXN3JNUBGOT&format=png" alt="Windows Logo" style="width: 200px; height:200px; margin-bottom: 1rem;">
             <h3>Windows</h3>
             <select id="windows-version" style="margin: 0.5rem 0; padding: 0.5rem; border: 1px solid #ccc; border-radius: 5px;">
-              
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.8.1/MEDomics-1.8.1-win.exe">Version 1.8.1 (latest)</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.8.0/MEDomics-1.8.0-win.exe">Version 1.8.0</option>
               <option value="https://github.com/MEDomicsLab/MEDomics/releases/download/v1.7.0/MEDomics-1.7.0-win.exe">Version 1.7.0</option>

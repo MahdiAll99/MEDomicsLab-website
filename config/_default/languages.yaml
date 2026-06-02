@@ -12,7 +12,7 @@ fr:  # New language (French example)
   languageCode: fr-FR
   contentDir: content/fr
   weight: 4
-  title: "MEDomics | Modélisation intégrative de données hétérogènes en médecine"
+  title: "MEDomics | Une plateforme collaborative pour la modélisation des données médicales"
   menu:
     main:
       - name: Accueil

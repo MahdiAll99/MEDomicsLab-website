@@ -17,7 +17,7 @@ sections:
   - block: hero
     content:
       title: MEDomics platform
-      text:  Integrative Modeling of Heterogeneous Data in Medicine
+      text:  A Collaborative Platform for Medical Data Modeling
       primary_action:
         text: Get Started
         url: https://medomics-udes.gitbook.io/medomicslab-docs/

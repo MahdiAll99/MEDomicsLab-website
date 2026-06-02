@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: La plateforme MEDomics
-      text:  Modélisation intégrative de données hétérogènes en médecine
+      text:  Une plateforme collaborative pour la modélisation des données médicales
       primary_action:
         text: Commencer
         url: https://medomics-udes.gitbook.io/medomicslab-docs/

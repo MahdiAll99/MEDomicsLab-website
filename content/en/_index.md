@@ -16,7 +16,7 @@ sections:
       
   - block: hero
     content:
-      title: MEDomics platform
+      title: MEDomics
       text:  A Collaborative Platform for Medical Data Modeling
       primary_action:
         text: Get Started

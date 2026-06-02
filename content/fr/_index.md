@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: La plateforme MEDomics
+      title: MEDomics
       text:  Une plateforme collaborative pour la modélisation des données médicales
       primary_action:
         text: Commencer
